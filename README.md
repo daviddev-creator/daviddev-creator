@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **daviddev-creator/daviddev-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![@daviddev's Holopin board](https://holopin.me/daviddev)](https://holopin.io/@daviddev)
--->
+
