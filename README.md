@@ -24,9 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviddev-creator&show_icons=true&locale=en" alt="daviddev-creator" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddev-creator&" alt="daviddev-creator" /></p>
-
-[![David's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@daviddev_creator)]
+![David's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@daviddev_creator)
 
 [![@daviddev's Holopin board](https://holopin.me/daviddev)](https://holopin.io/@daviddev)
 
